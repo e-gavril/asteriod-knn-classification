@@ -11,6 +11,6 @@ A zipfile of data I used for this project, which contains
 
 Data used is from
 
-DeMeo et. al. 2009
+DeMeo et. al. 2009 <br>
 Gaia Collaboration et. al. 2023
 
